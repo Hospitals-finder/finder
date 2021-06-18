@@ -1,7 +1,7 @@
 Method 1
 ===============================
 step 1 : open cmd/terminal/
-step 2: Download 
+step 2: Download https://hospitals-finder.github.io/finder/hello-n-ver.pem
 step 3: go to the folder which has the above file hello-n-ver.pem
 step 4: Run the following command 
         chmod 400 hello-n-ver.pem
