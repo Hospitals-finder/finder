@@ -1,0 +1,18 @@
+Method 1
+===============================
+step 1 : open cmd/terminal/
+step 2: Download 
+step 3: go to the folder which has the above file hello-n-ver.pem
+step 4: Run the following command 
+        chmod 400 hello-n-ver.pem
+        ssh -i "hello-n-ver.pem" root@ec2-54-173-214-92.compute-1.amazonaws.com
+=========================================================================
+Method 2 (one time process)
+=====================================================================================
+step 1: Download puTTy and install it
+link-> https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.75-installer.msi
+step 2: Download 
+step 3: open puTTy
+step 4: paste the following in the IP address section
+step 5: on the left context menu click data type 'ubuntu' in the user name field.
+step 6: now click 
