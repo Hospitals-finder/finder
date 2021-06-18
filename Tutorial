@@ -15,4 +15,15 @@ step 2: Download
 step 3: open puTTy
 step 4: paste the following in the IP address section
 step 5: on the left context menu click data type 'ubuntu' in the user name field.
-step 6: now click 
+step 6: now click SSH>Auth and Browse the key u have downloaded above and upload it now again got to session on the left menu.
+step 7: type the any name u want in the saved sesssions and click save
+step 8: now click on open now u was connected to the instance
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                  Running the server
+after connecting to the aws terminal
+ type the folling commands
+1. conda activate restapi
+2. cd finder
+3. python3 manage.py runserver 0:8000
+server will start running
+
