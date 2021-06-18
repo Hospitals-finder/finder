@@ -11,7 +11,7 @@ Method 2 (one time process)
 =====================================================================================
 step 1: Download puTTy and install it
 link-> https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.75-installer.msi
-step 2: Download 
+step 2: Download https://hospitals-finder.github.io/finder/prototype_1/hello-n-vergenia.ppk
 step 3: open puTTy
 step 4: paste the following in the IP address section
 step 5: on the left context menu click data type 'ubuntu' in the user name field.
